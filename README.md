@@ -42,3 +42,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabby&" alt="aftabby" /></p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=aftabby)](https://aftabby.com)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
