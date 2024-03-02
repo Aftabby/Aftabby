@@ -6,11 +6,11 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabby&label=Profile%20views&color=0e75b6&style=flat" alt="aftabby" /> </p><br>
-<img align="right" alt="Coding" width="300" src="mid.gif">
 
-- 🌱 I’m currently learning **advanced ML & DL**
 
-- 👨‍💻 All of my projects are available at [Projects](aftabby.com/projects)
+- 🌱 I’m currently learning **advanced ML & DL** <img align="right" alt="Coding" width="200" src="mid.gif">
+
+- 👨‍💻 All of my projects are available at [Projects](aftabby.com/projects) 
 
 - 💬 Ask me about **python, pandas, seaborn, TensorFlow**
 
