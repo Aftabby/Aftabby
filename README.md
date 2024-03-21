@@ -30,13 +30,19 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://dev.to/aftabby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aftabby" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aftabby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftabby" height="30" width="40" /></a>
-<a href="https://kaggle.com/aftabby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aftabby" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aftabby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aftabby" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aftabby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aftabby" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/aftabby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="aftabby" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aftabby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aftabby" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/aftabby" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aftabby" height="30" width="40" /></a>
+-->
+<a href="https://linkedin.com/in/aftabby" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftabby-linkedIn-link" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Aftabby/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="aftabby-reddit-link" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/986661127381483580" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aftabby-discord-link" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aftabby" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aftabby-leetCode-link" height="30" width="40" /></a>
+<a href="https://kaggle.com/aftabby" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aftabby-kaggle-link" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/aftabby" target="_blank""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aftabby" height="30" width="40" /></a>
+-->
+
+<!-- <a href="https://www.hackerearth.com/aftabby" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="aftabby" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aftabby" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aftabby" height="30" width="40" /></a>
+-->
 </p>
 <br>
 
