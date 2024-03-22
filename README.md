@@ -3,6 +3,7 @@
         <img src="banner.gif" alt="MasterHead">
     </a>
 </p>
+
 <h1 align="center">Hi 👋, I'm Aftab Uddin</h1>
 <!-- <h3 align="center">Exploring Data Science: Insights from an Evolving Perspective</h3><br>-->
 <!-- [![Exploring Data Science: Insights from an Evolving Perspective](https://readme-typing-svg.demolab.com?font=Delius&size=15&duration=1500&pause=5000&color=2580A8&background=FFFFFF00&center=true&random=false&width=435&lines=Exploring+Data+Science%3A+Insights+from+an+Evolving+Perspective)](https://www.aftabby.com){:target="_blank"}  -->
@@ -24,7 +25,7 @@
 
 - 📫 Reach me at **mail@aftabby.com**
 
-- 📄 Visit portfolio <a href="aftabby.com" target="_blank" rel="noopener noreferrer">aftabby</a>
+- 📄 Visit portfolio <a href="https://www.aftabby.com" target="_blank" rel="noopener noreferrer">aftabby</a>
 
 <br><br><br>
 
