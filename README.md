@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **advanced ML & DL** <img align="right" alt="Coding" width="200" src="mid.gif">
 
-- 👨‍💻 All of my projects are available at <a href="https://www.aftabby.com/projects" target="_blank" rel="noopener noreferrer">Projects</a>
+- 👨‍💻 All of my projects are available at <a href="https:/projects.aftabby.com/" target="_blank" rel="noopener noreferrer">Projects</a>
 
 - 💬 Ask me about **python, pandas, seaborn, TensorFlow**
 
