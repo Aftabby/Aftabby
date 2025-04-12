@@ -19,11 +19,11 @@
 
 - 🌱 I’m currently learning **advanced ML & DL** <img align="right" alt="Coding" width="200" src="mid.gif">
 
-- 👨‍💻 All of my projects are available at <a href="https://www.aftabby.com//#projects" target="_blank" rel="noopener noreferrer">Projects</a>
+- 👨‍💻 All of my projects are available at <a href="https://www.aftabby.com/#projects" target="_blank" rel="noopener noreferrer">Projects</a>
 
 - 💬 Ask me about **python, pandas, seaborn, TensorFlow**
 
-- 📫 Reach me at **mail@aftabby.com**
+- 📫 Reach me at <a href="mailto:mail@aftabby.com" target="_blank" rel="noopener noreferrer">**mail@aftabby.com**</a>
 
 - 📄 Visit portfolio <a href="https://www.aftabby.com" target="_blank" rel="noopener noreferrer">aftabby</a>
 
@@ -66,4 +66,7 @@ style="margin-left: 20px;" alt="aftabby streak stats" />
   <a href="https://aftabby.com" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="trophy">
   </a>
+</div>
+<div align="center">
+    <img src="https://github.com/Aftabby/Aftabby/blob/main/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
