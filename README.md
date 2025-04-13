@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabby&label=Profile%20views&color=0e75b6&style=flat" alt="aftabby profile views" /> </p><br>
 
-- 🌱 I’m currently learning **advanced ML & DL** <img align="right" alt="Coding" width="200" src="mid.gif">
+- 🌱 I’m currently working on **advanced DS & ML Projects** <img align="right" alt="Coding" width="200" src="mid.gif">
 
 - 👨‍💻 All of my projects are available at <a href="https://www.aftabby.com/#projects" target="_blank" rel="noopener noreferrer">Projects</a>
 
